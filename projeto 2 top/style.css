@@ -2,6 +2,7 @@ body{
     background-color: #1D4221;
     color: white;
     font-family: "Oswald", sans-serif;
+    font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,6 +13,7 @@ button {
     background-color: #64A712;
     color: white;
     font-family: "Oswald", sans-serif;
+    font-size: 35px;
 }
 .passo {
     display: none;
@@ -24,5 +26,5 @@ main {
     text-align: center;
 }
 img {
-    max-width: 90%;
+    max-width: 80%;
 }
